@@ -14,8 +14,7 @@ namespace My_QQ
         //数据库操作类
         //机房
         //string conStr = "Server=.;Database=MyQQ2;Integrated Security=SSPI";
-        //techer 数据库
-        string conStr = "Server=139.196.221.221;Database=MyQQ2;user=dog;password=dog123";
+        
         //宿舍机器
         string conStr2 = @"Server=DESKTOP-5OF4LA4\SQLEXPRESS;Database=MyQQ2;Integrated Security=SSPI";
         SqlConnection conn;
